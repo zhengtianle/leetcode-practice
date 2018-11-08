@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="66dc0ef8-fd01-489a-8b87-1be31639f4d1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="66dc0ef8-fd01-489a-8b87-1be31639f4d1" name="Default Changelist" comment="" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,8 +82,38 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1718120935">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="586" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="586" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/NineThreeTwo.java">
@@ -88,11 +122,23 @@
               <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simple/FourFiveNine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding>
+                <element signature="e#892#893#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/ThreeNineEight.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,6 +146,16 @@
               <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simple/FiveEight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
               </folding>
             </state>
           </provider>
@@ -108,6 +164,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/simple/EightEightFour.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="392">
               <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
             </state>
@@ -136,6 +193,10 @@
                 <element signature="e#809#810#0" expanded="true" />
                 <element signature="e#827#828#0" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="44">
+              <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
             </state>
           </provider>
         </entry>
@@ -172,11 +233,16 @@
         <option value="$PROJECT_DIR$/src/medium/SixFour.java" />
         <option value="$PROJECT_DIR$/src/medium/SixThree.java" />
         <option value="$PROJECT_DIR$/src/medium/NineThreeOne.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/medium/NineThreeTwo.java" />
         <option value="$PROJECT_DIR$/src/medium/ThreeNineEight.java" />
         <option value="$PROJECT_DIR$/src/simple/EightEightFour.java" />
         <option value="$PROJECT_DIR$/src/array/First.java" />
         <option value="$PROJECT_DIR$/src/array/Second.java" />
+=======
+        <option value="$PROJECT_DIR$/src/simple/FourFiveNine.java" />
+        <option value="$PROJECT_DIR$/src/simple/FiveEight.java" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
       </list>
     </option>
   </component>
@@ -197,13 +263,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="PackagesPane" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="leetcode-practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodePractice" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode-practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode-practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode-practice" type="b2602c69:ProjectViewProjectNode" />
@@ -220,13 +301,21 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+      <pane id="AndroidView" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541689955476" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541409277029" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -247,9 +336,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Second">
     <configuration name="EightEightFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="simple.EightEightFour" />
+=======
+  <component name="RunManager" selected="Application.FiveEight">
+    <configuration name="FiveEight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.FiveEight" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
       <module name="LeetCodePractice" />
       <extension name="coverage">
         <pattern>
@@ -261,12 +356,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.First" />
       <module name="LeetCodePractice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="array.*" />
+=======
+    <configuration name="FourFiveNine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simple.FourFiveNine" />
+      <module name="LeetCodePractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simple.*" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,8 +378,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="NineThreeTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.NineThreeTwo" />
+=======
+    <configuration name="NineThreeOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.NineThreeOne" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
       <module name="LeetCodePractice" />
       <extension name="coverage">
         <pattern>
@@ -314,6 +423,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.NineThreeTwo" />
       <item itemvalue="Application.ThreeNineEight" />
       <item itemvalue="Application.EightEightFour" />
@@ -327,6 +437,19 @@
         <item itemvalue="Application.EightEightFour" />
         <item itemvalue="Application.ThreeNineEight" />
         <item itemvalue="Application.NineThreeTwo" />
+=======
+      <item itemvalue="Application.SixFiveSeven" />
+      <item itemvalue="Application.NineThreeOne" />
+      <item itemvalue="Application.FourFiveNine" />
+      <item itemvalue="Application.FiveEight" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FiveEight" />
+        <item itemvalue="Application.FourFiveNine" />
+        <item itemvalue="Application.NineThreeOne" />
+        <item itemvalue="Application.SixFiveSeven" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
       </list>
     </recent_temporary>
   </component>
@@ -347,20 +470,32 @@
       <workItem from="1540986130426" duration="58000" />
       <workItem from="1540986222767" duration="5528000" />
       <workItem from="1540996738591" duration="113000" />
+<<<<<<< HEAD
       <workItem from="1541043342211" duration="5000000" />
       <workItem from="1541135218634" duration="1991000" />
       <workItem from="1541342590974" duration="2638000" />
       <workItem from="1541688260505" duration="1747000" />
+=======
+      <workItem from="1541407835763" duration="1435000" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="19885000" />
+=======
+    <option name="totallyTimeSpent" value="9944000" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="30" width="1440" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="885" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20761494" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28106937" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -369,16 +504,21 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" weight="0.1690341" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39829302" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18982118" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39752406" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3287483" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -475,6 +615,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="jar:///opt/java/jdk1.8.0_191/src.zip!/java/util/Vector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13400">
@@ -530,10 +671,27 @@
           <folding>
             <element signature="e#641#642#0" expanded="true" />
             <element signature="e#660#661#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/simple/EightEightFour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simple/FourFiveNine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <element signature="e#892#893#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/array/Second.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
@@ -541,6 +699,15 @@
           <folding>
             <element signature="e#809#810#0" expanded="true" />
             <element signature="e#827#828#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/simple/FiveEight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+>>>>>>> f534939f42eeb9b8ea11b87a8e016ad13064e1ab
           </folding>
         </state>
       </provider>
