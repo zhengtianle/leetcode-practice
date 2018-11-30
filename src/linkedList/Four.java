@@ -6,6 +6,7 @@ package linkedList;
  * @Time 18-11-28
  * @Author ZhengTianle
  * Description:
+ * https://leetcode-cn.com/explore/interview/card/top-interview-questions-easy/6/linked-list/44/
  */
 public class Four {
     /*遍历实现*/
