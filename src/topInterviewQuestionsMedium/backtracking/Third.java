@@ -84,15 +84,5 @@ public class Third {
         nums[y] = temp;
     }
 
-    /**
-     * 遍历解法
-     */
-    public List<List<Integer>> permute2(int[] nums) {
-
-    }
-    public void fullArray2(){
-
-    }
-
 
 }
