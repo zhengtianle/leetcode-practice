@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66dc0ef8-fd01-489a-8b87-1be31639f4d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Four.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Seven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Six.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCodePractice/topInterviewQuestionsMedium/backtracking/Four.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCodePractice/topInterviewQuestionsMedium/backtracking/Four.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +60,8 @@
     <session id="-512981876">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="1" />
@@ -76,27 +78,27 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="31" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="75" />
+          <entry key="java" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="75" />
+          <entry key="JAVA" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="30996" />
+          <entry key="java" value="33436" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30996" />
+          <entry key="JAVA" value="33436" />
         </counts>
       </usages-collector>
     </session>
@@ -135,17 +137,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Four.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="594">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Five.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Six.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Seven.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Five.java">
+        <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Eight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="125">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Interval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -172,10 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/simple/FiveEight.java" />
-        <option value="$PROJECT_DIR$/src/array/Third.java" />
-        <option value="$PROJECT_DIR$/src/array/Five.java" />
-        <option value="$PROJECT_DIR$/src/array/Six.java" />
         <option value="$PROJECT_DIR$/src/array/Nine.java" />
         <option value="$PROJECT_DIR$/src/string/First.java" />
         <option value="$PROJECT_DIR$/src/string/Third.java" />
@@ -223,6 +257,10 @@
         <option value="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Three.java" />
         <option value="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Four.java" />
         <option value="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Five.java" />
+        <option value="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Interval.java" />
+        <option value="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Six.java" />
+        <option value="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Seven.java" />
+        <option value="$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Eight.java" />
       </list>
     </option>
   </component>
@@ -243,6 +281,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -279,13 +318,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548046750865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548132113282" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ssm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -306,20 +344,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Five (1)">
-    <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topInterviewQuestionsEasy.others.First" />
-      <module name="LeetCodePractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="topInterviewQuestionsEasy.others.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Seven">
     <configuration name="Five (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="topInterviewQuestionsMedium.sortingAndSearching.Five" />
       <module name="LeetCodePractice" />
@@ -372,12 +397,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Third (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="topInterviewQuestionsMedium.backtracking.Third" />
+    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topInterviewQuestionsMedium.sortingAndSearching.Seven" />
       <module name="LeetCodePractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="topInterviewQuestionsMedium.backtracking.*" />
+          <option name="PATTERN" value="topInterviewQuestionsMedium.sortingAndSearching.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -386,19 +411,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Third (1)" />
       <item itemvalue="Application.Four" />
       <item itemvalue="Application.Four (1)" />
       <item itemvalue="Application.Four (2)" />
       <item itemvalue="Application.Five (1)" />
+      <item itemvalue="Application.Seven" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Seven" />
         <item itemvalue="Application.Five (1)" />
         <item itemvalue="Application.Four (2)" />
         <item itemvalue="Application.Four (1)" />
         <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Third (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -450,16 +475,17 @@
       <workItem from="1547714213825" duration="7120000" />
       <workItem from="1547805337737" duration="3330000" />
       <workItem from="1548043221117" duration="3582000" />
+      <workItem from="1548124342254" duration="6259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140264000" />
+    <option name="totallyTimeSpent" value="146523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="33" width="1366" height="703" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26327768" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26783004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -481,7 +507,7 @@
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962063" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Database" order="5" />
@@ -512,34 +538,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsEasy/string/Third.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="820">
-          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsEasy/string/Six.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsEasy/string/Seven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///opt/java/jdk1.8.0_191/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsEasy/linkedList/Third.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
@@ -864,15 +862,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Four.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="594">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Five.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="124">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Six.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Seven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="55" column="5" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/topInterviewQuestionsMedium/sortingAndSearching/Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>
