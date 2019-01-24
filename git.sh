@@ -8,6 +8,7 @@ if [ -n "${input}" ]
 then
     git commit -m "${input}"
     git pull
+    echo "正在拉取最新分支"
     git status
     git push origin master
 else
